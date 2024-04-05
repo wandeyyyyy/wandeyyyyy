@@ -47,13 +47,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<img  align="left" width="42%"  src="https://github-readme-stats.vercel.app/api?username=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img  align="left" width="42%"  src="https://github-readme-stats.vercel.app/api?username=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt=" stats"/>
  
 <img  align="left" width="42%" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeyyyyy&layout=compact&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
  <br/> <br/>
  <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/api/?user=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<!--   <img width=390 src="https://github-readme-streak-stats.vercel.app/api/?user=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 
 
 </div>
