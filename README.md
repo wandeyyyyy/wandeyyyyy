@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **TypeScript, React Native, Nextjs**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/wandeyyyyy/wandeyyyyy/issues)**
+💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/wandeyyyyy/wandeyyyyy)**
 
 ⚡ Fun fact **I love watching movies, i also love being creative**
 
@@ -45,15 +45,17 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
-<img  align="left" width="42%"  src="https://github-readme-stats.vercel.app/api?username=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt=" stats"/>
+
+<img  align="left" width="42%" height="400"  src="https://github-readme-stats.vercel.app/api?username=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt=" stats"/>
  
-<img  align="left" width="42%" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeyyyyy&layout=compact&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img  align="left" width="42%" height="400" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeyyyyy&layout=compact&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
- <br/> <br/>
+ <br/> 
+ 
  <div align="center">
 <!--   <img width=390 src="https://github-readme-streak-stats.vercel.app/api/?user=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats" margin-top="10"/>
 
 
 </div>
